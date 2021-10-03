@@ -11,11 +11,17 @@ Upstream version:
 ![Screenshot of TPS demo](screenshots/screenshot.png)
 Cinematic enhanced:
 ![2021-10-03_19-18](https://user-images.githubusercontent.com/62219596/135762704-e71f3d70-34ed-4c0e-ab1a-6950909c507b.png)
-<img src="https://user-images.githubusercontent.com/62219596/135762706-e1012302-b714-4d57-89c3-98b3a3f948e3.png" alt="drawing" width="480"/>
-<img src="https://user-images.githubusercontent.com/62219596/135762707-fbfcf3ed-d041-400e-883b-d884c34a22b0.png" alt="drawing" width="480"/>
-<img src="https://user-images.githubusercontent.com/62219596/135762708-77bae7e9-e9f3-4423-99cc-d52fc80ec6e6.png" alt="drawing" width="310"/>
-<img src="https://user-images.githubusercontent.com/62219596/135762710-293fb97d-8738-43de-b535-a2ceedc6d19d.png" alt="drawing" width="310"/>
-<img src="https://user-images.githubusercontent.com/62219596/135762713-94a07a2f-73f8-4541-b4e8-6e36234cb50c.png" alt="drawing" width="310"/>
+<img src="https://user-images.githubusercontent.com/62219596/135762706-e1012302-b714-4d57-89c3-98b3a3f948e3.png" alt="drawing" width="400"/>
+<img src="https://user-images.githubusercontent.com/62219596/135762707-fbfcf3ed-d041-400e-883b-d884c34a22b0.png" alt="drawing" width="400"/>
+<img src="https://user-images.githubusercontent.com/62219596/135762708-77bae7e9-e9f3-4423-99cc-d52fc80ec6e6.png" alt="drawing" width="250"/>
+<img src="https://user-images.githubusercontent.com/62219596/135762710-293fb97d-8738-43de-b535-a2ceedc6d19d.png" alt="drawing" width="250"/>
+<img src="https://user-images.githubusercontent.com/62219596/135762713-94a07a2f-73f8-4541-b4e8-6e36234cb50c.png" alt="drawing" width="250"/>
+
+## Cinematic version
+There are 2 color correction version
+1. The first one is the one shown in the screenshots above (`res://color_corrections/cc1.tres`)
+2. The second one is similar to the screenshots show https://twitter.com/PanTrakX/status/1444351188493869070?s=20 (`res://color_corrections/cc2.tres`)
+
 
 ## Godot versions
 
