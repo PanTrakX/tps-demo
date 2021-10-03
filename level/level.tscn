@@ -84,7 +84,7 @@ interior_ambient_color = Color( 0.2, 0.129412, 0.0470588, 1 )
 interior_ambient_contrib = 0.3
 
 [node name="Player" parent="." instance=ExtResource( 6 )]
-transform = Transform( -0.575826, 0, -0.817573, 0, 1, 0, 0.817573, 0, -0.575826, 64.8183, -1.0765, 78.7639 )
+transform = Transform( -0.781422, 0, -0.624002, 0, 1, 0, 0.624002, 0, -0.781422, 65.9676, -1.51203, 79.1996 )
 
 [node name="RedRobot1" parent="." instance=ExtResource( 7 )]
 transform = Transform( 0.843905, 0, -0.536493, 0, 1, 0, 0.536493, 0, 0.843905, 71.5907, -6.05686, 46.2736 )
@@ -146,3 +146,8 @@ script = ExtResource( 9 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 0.205393, -0.513509, 0.83314, 0, 0.85129, 0.524696, -0.978679, -0.107769, 0.174849, 22.4248, 8.51619, 14.6477 )
+fov = 60.0
+far = 200.0
