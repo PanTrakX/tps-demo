@@ -1,14 +1,25 @@
-# Third Person Shooter Demo
+# Third Person Shooter Demo | Cinematic enhance
 
 Third person shooter demo made using [Godot Engine](https://godotengine.org).
 
 Check out this demo on the asset library: https://godotengine.org/asset-library/asset/678
 
+This fork version is a Cinematic enhanced version of the upstream.
+
+
+Upstream version:
 ![Screenshot of TPS demo](screenshots/screenshot.png)
+Cinematic enhanced:
+![2021-10-03_19-18](https://user-images.githubusercontent.com/62219596/135762704-e71f3d70-34ed-4c0e-ab1a-6950909c507b.png)
+<img src="https://user-images.githubusercontent.com/62219596/135762706-e1012302-b714-4d57-89c3-98b3a3f948e3.png" alt="drawing" width="480"/>
+<img src="https://user-images.githubusercontent.com/62219596/135762707-fbfcf3ed-d041-400e-883b-d884c34a22b0.png" alt="drawing" width="480"/>
+<img src="https://user-images.githubusercontent.com/62219596/135762708-77bae7e9-e9f3-4423-99cc-d52fc80ec6e6.png" alt="drawing" width="310"/>
+<img src="https://user-images.githubusercontent.com/62219596/135762710-293fb97d-8738-43de-b535-a2ceedc6d19d.png" alt="drawing" width="310"/>
+<img src="https://user-images.githubusercontent.com/62219596/135762713-94a07a2f-73f8-4541-b4e8-6e36234cb50c.png" alt="drawing" width="310"/>
 
 ## Godot versions
 
-- The [`master`](https://github.com/godotengine/tps-demo) branch is compatible with the latest stable Godot version (currently 3.3.x).
+- The [`master`](https://github.com/godotengine/tps-demo) branch is compatible with Godot version 3.4 beta 5.
 - If you are using an older version of Godot, use the appropriate branch for your Godot version:
 
   - [`3.2`](https://github.com/godotengine/tps-demo/tree/3.2) branch
